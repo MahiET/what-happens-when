@@ -267,7 +267,8 @@ Hub:
   request out of all other ports. If the router is connected on the same "wire",
   it will respond with an ``ARP Reply`` (see below).
 
-Switch:
+
+  Switch:
 
 * If the computer is connected to a switch, the switch will check its local
   CAM/MAC table to see which port has the MAC address we are looking for. If
